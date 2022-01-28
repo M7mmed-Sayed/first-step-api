@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb13910a-2009-4391-a8c2-ba7a2b5992ed": {
+      "ProjectGuid": "eb13910a-2009-4391-a8c2-ba7a2b5992ed",
+      "DisplayName": "my-books",
+      "ColorIndex": 0
+    },
+    "c59abef0-39a2-4a9a-a134-b6473e7bcb96": {
+      "ProjectGuid": "c59abef0-39a2-4a9a-a134-b6473e7bcb96",
+      "DisplayName": "my-books",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
